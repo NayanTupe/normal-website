@@ -1,7 +1,7 @@
 function Question({ onYes, onNo }) {
   return (
     <div className="question-container">
-      <p>Would you like to get to know each other a little better? 😊</p>
+      <p>Hey Siddhi… Would you like to get to know each other better? 😊</p>
 
       <div className="buttons">
         <button onClick={onYes}>Would you like..🖤</button>
