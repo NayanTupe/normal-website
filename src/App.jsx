@@ -144,7 +144,7 @@ function YesPage() {
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 1 }}
       >
-        <h1>I'm really happy you said YES 🥹💖</h1>
+        <h1>I'm really happy you said YES 🥹💖</h1>z
 
         {/* 🐻 Bear GIF */}
         <img src="/bear.gif" alt="cute bear" className="bear" />
